@@ -1,4 +1,4 @@
-# [ML] MNIST_GAN 숫자 이미지 생성
+# [ML] MNIST (GAN Model) 숫자 이미지 생성
 
 데이터 출처: (mnist image set) tensorflow.keras.datasets 라이브러리
 
