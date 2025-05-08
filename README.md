@@ -1,1 +1,1 @@
-# -ML-MNIST-GAN
+# [ML] MNIST_GAN
